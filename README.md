@@ -33,7 +33,7 @@ I love creating tools that mix intelligence, automation, and a bit of chaos — 
 ## 🌐 Connect
 💬 Discord: **spitfire.exe**  
 🧠 Project Universe: **Spitfire Network**  
-🚀 GitHub: [github.com/oprah14](https://github.com/uCanCallSpitfire)
+🚀 GitHub: [github.com/uCanCallSpitfire](https://github.com/uCanCallSpitfire)
 
 ---
 
