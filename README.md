@@ -27,8 +27,8 @@ I love creating tools that mix intelligence, automation, and a bit of chaos — 
 ---
 
 ## ⚡ GitHub Stats
-![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=oprah14&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oprah14&hide=TeX&layout=compact&theme=tokyonight)
+![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=uCanCallSpitfire&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uCanCallSpitfire&hide=TeX&layout=compact&theme=tokyonight)
 
 ---
 
@@ -43,7 +43,7 @@ I love creating tools that mix intelligence, automation, and a bit of chaos — 
 ## 🌐 Connect
 💬 Discord: **spitfire.exe**  
 🧠 Project Universe: **Spitfire Network**  
-🚀 GitHub: [github.com/oprah14](https://github.com/oprah14)
+🚀 GitHub: [github.com/oprah14](https://github.com/uCanCallSpitfire)
 
 ---
 
@@ -62,7 +62,7 @@ I love creating tools that mix intelligence, automation, and a bit of chaos — 
 * **RF / SDR** — `■■■□□□□□□□` (Beginner-Intermediate)  
 * **PCB & EasyEDA** — `■■■□□□□□□□` (Intermediate)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oprah14\&hide=TeX\&layout=compact)</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uCanCallSpitfire\&hide=TeX\&layout=compact)</br>
 
 ---
 
