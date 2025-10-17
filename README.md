@@ -8,62 +8,68 @@
 
 # ██║     ███████╗███████╗
 
-# 👋 Merhaba, ben Efe
+# 👾 Efe | Full-Stack, Cybersecurity & AI Developer
 
-Ben yazılım ve siber güvenlikle uğraşan bir tinkerer. GitHub profilimi şöyle süsledim — projelerim, yeteneklerim ve iletişim bilgilerim burada.
-
----
-
-## 🚀 Hakkımda
-
-* 📚 Öğrenmeyi ve denemeyi severim.
-* 🛠️ Gömülü sistemler, Python, ağ güvenliği ve AI pentesting üzerinde çalışıyorum.
-* 🎮 Boş zamanlarda retro konsol tamiri ve 3D modelleme yaparım.
+Hey there! I'm **Efe**, a passionate developer focused on **AI Engineering**, **Cybersecurity**, and **Embedded Systems**.  
+I love creating tools that mix intelligence, automation, and a bit of chaos — all wrapped in clean, efficient code ⚡  
 
 ---
 
-## ✨ Banner (H, O, B ile şekilli başlık)
 
-```
-HHHHH  OOOOO  BBBBB   EEEEE  FFFFF  EEEEE
-H   H  O   O  B    B  E      F      E
-HHHHH  O   O  BBBBB   EEEE   FFF    EEEE
-H   H  O   O  B    B  E      F      E
-H   H  OOOOO  BBBBB   EEEEE  F      EEEEE
-```
 
+## 🧰 Tools & Tech
+- 🌐 **Full-Stack Dev:** `React`, `Node.js`, `Express`, `Flask`, `TailwindCSS`
+- 🧠 **AI & ML:** `TensorFlow`, `PyTorch`, `LangChain`, `OpenAI API`
+- 🧱 **Embedded:** `ESP32`, `Raspberry Pi`, `Flipper Zero`, `HackRf`, `and more handmade stuff`
+- 🕵️ **Cybersecurity:** `Wireshark`, `Nmap`, `Aircrack-ng`, `Burp Suite`
+- 🐧 **Environments:** `Kali Linux`, `Ubuntu`, `Windows`, `Docker`, `Git`
+
+---
+
+## ⚡ GitHub Stats
+![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=oprah14&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oprah14&hide=TeX&layout=compact&theme=tokyonight)
+
+---
+
+## 🧬 About Me
+- 🔭 Currently building **CodeFlux AI** — a next-gen coding assistant.  
+- 🌱 Learning **AI Pentesting**, **LLM Security**, and advanced **system integration**.  
+- 🧩 Maker of **BMO (Good & Bad Mode AI)** project for Raspberry Pi.  
+- ⚡ Motto: *“Hack the system, but build something better.”*  
+
+---
+
+## 🌐 Connect
+💬 Discord: **spitfire.exe**  
+🧠 Project Universe: **Spitfire Network**  
+🚀 GitHub: [github.com/oprah14](https://github.com/oprah14)
+
+---
+
+💀 *"The system fears the mind that questions it."*
 ---
 
 ## 🧰 Skills
 
-Aşağıda sık kullandığım teknolojiler ve seviyem (kabaca):
-
-* **Python** — `■■■■■□□□□□` (ileri)
-* **C / C++** — `■■■■□□□□□□` (orta)
-* **JavaScript (Node/React)** — `■■■□□□□□□□` (ortalama)
-* **Embedded (ESP32, Raspberry Pi)** — `■■■■■□□□□□` (ileri)
-* **Linux & Kali** — `■■■■■□□□□□` (ileri)
-* **RF / SDR** — `■■■□□□□□□□` (başlangıç-orta)
-* **PCB & EasyEDA** — `■■■□□□□□□□` (orta)
+* **Python** — `■■■■■□□□□□` (Advanced)  
+* **C / C++** — `■■■■□□□□□□` (Intermediate)  
+* **JavaScript (Node/React)** — `■■■■■□□□□□` (Intermediate)  
+* **Java** — `■■■□□□□□□□` (Beginner)  
+* **PHP** — `■■■□□□□□□□` (Basic)  
+* **Embedded (ESP32, Raspberry Pi)** — `■■■■■□□□□□` (Advanced)  
+* **Linux & Kali** — `■■■■■□□□□□` (Advanced)  
+* **RF / SDR** — `■■■□□□□□□□` (Beginner-Intermediate)  
+* **PCB & EasyEDA** — `■■■□□□□□□□` (Intermediate)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oprah14\&hide=TeX\&layout=compact)</br>
 
 ---
 
-## 🔭 Projects (öne çıkanlar)
-
-* **BMO** — Raspberry Pi üzerinde "Good BMO" (oyunlar) ve "Bad BMO" (hacking araçları) modları içeren kişisel proje.
-* **Flipper Zero araçları** — Eğitim ve koruma amaçlı eklentiler.
-* **ESP32 captive portal + LED gözlük entegrasyonu** — firmware / captive portal tabanlı interaktif sistem.
-
-(Projelerimin detaylarına repo linkleri ekleyebilirsin.)
-
----
-
 ## 📫 İletişim
 
-* E-posta: `email@ornek.com`
-* Twitch / Twitter / LinkedIn: profil-linklerin buraya
+* E-posta: `efe20171999@gmail.com`
+* LinkedIn: https://www.linkedin.com/in/efe-tumbek-254b25362/
 
 ---
 
