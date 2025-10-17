@@ -64,9 +64,4 @@ I love creating tools that mix intelligence, automation, and a bit of chaos — 
 
 ---
 
-## 📈 GitHub İstatistikleri
-
-*İstersen burada GitHub statlarınızı gösteren kartlar (shields) ekleyebilirim; örnek: en çok kullandığım diller, katkı grafiği vs.*
-
----
 
