@@ -18,10 +18,6 @@ I love creating tools that mix intelligence, automation, and a bit of chaos — 
 ---
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uCanCallSpitfire&hide=TeX&layout=compact&theme=tokyonight)
-
----
-
 ## 🧬 About Me
 - 🔭 Currently building **CodeFlux AI** — a next-gen coding assistant.  
 - 🌱 Learning **AI Pentesting**, **LLM Security**, and advanced **system integration**.  
