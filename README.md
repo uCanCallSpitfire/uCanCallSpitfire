@@ -17,8 +17,7 @@ I love creating tools that mix intelligence, automation, and a bit of chaos — 
 
 ---
 
-## ⚡ GitHub Stats
-![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=uCanCallSpitfire&show_icons=true&theme=tokyonight)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uCanCallSpitfire&hide=TeX&layout=compact&theme=tokyonight)
 
 ---
