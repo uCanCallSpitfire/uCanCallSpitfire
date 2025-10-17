@@ -53,7 +53,7 @@ I love creating tools that mix intelligence, automation, and a bit of chaos — 
 
 ---
 
-## 📫 İletişim
+## 📫 Communication
 
 * E-posta: `efe20171999@gmail.com`
 * LinkedIn: https://www.linkedin.com/in/efe-tumbek-254b25362/
