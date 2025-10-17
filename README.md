@@ -55,6 +55,7 @@ I love creating tools that mix intelligence, automation, and a bit of chaos — 
 * **Python** — `■■■■■□□□□□` (Advanced)  
 * **C / C++** — `■■■■□□□□□□` (Intermediate)  
 * **JavaScript (Node/React)** — `■■■■■□□□□□` (Intermediate)  
+* **HTML / CSS** — `■■■■■□□□□□` (Intermediate)  
 * **Java** — `■■■□□□□□□□` (Beginner)  
 * **PHP** — `■■■□□□□□□□` (Basic)  
 * **Embedded (ESP32, Raspberry Pi)** — `■■■■■□□□□□` (Advanced)  
