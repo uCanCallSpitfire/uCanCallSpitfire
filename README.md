@@ -45,6 +45,8 @@ I love creating tools that mix intelligence, automation, and a bit of chaos — 
 
 💀 *"The system fears the mind that questions it."*
 
+---
+
 
 ## 🌐 Connect
 💬 Discord: **aghand**  
