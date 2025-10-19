@@ -11,8 +11,17 @@
 </div>
 
 ---
-Hey there! I'm **Efe**, a passionate developer focused on **AI Engineering**, **Cybersecurity**, and **Embedded Systems**.  
+Hey there! I'm **Efe**, a passionate full-stack developer focused on **AI Engineering**, **Cybersecurity**, and **Embedded Systems**.  
 I love creating tools that mix intelligence, automation, and a bit of chaos — all wrapped in clean, efficient code ⚡  
+
+---
+
+
+## 🧬 About Me
+- 🔭 Currently building **CodeFlux AI** — a next-gen coding assistant.  
+- 🌱 Learning **AI Pentesting**, **LLM Security**, and advanced **system integration**.  
+- 🧩 Maker of **BMO (Good & Bad Mode AI)** project for Raspberry Pi.  
+- ⚡ Motto: *“Hack the system, but build something better.”*  
 
 ---
 
@@ -27,41 +36,21 @@ I love creating tools that mix intelligence, automation, and a bit of chaos — 
 
 ---
 
+**<h3 align="center">Skills</h3>**
 
-## 🧬 About Me
-- 🔭 Currently building **CodeFlux AI** — a next-gen coding assistant.  
-- 🌱 Learning **AI Pentesting**, **LLM Security**, and advanced **system integration**.  
-- 🧩 Maker of **BMO (Good & Bad Mode AI)** project for Raspberry Pi.  
-- ⚡ Motto: *“Hack the system, but build something better.”*  
-
----
-
-## 🌐 Connect
-💬 Discord: **spitfire.exe**  
-🧠 Project Universe: **Spitfire Network**  
-🚀 GitHub: [github.com/uCanCallSpitfire](https://github.com/uCanCallSpitfire)
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java" style="margin-right: 8px"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="28" alt="C" style="margin-right: 8px"> <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" height="28" alt="C++" style="margin-right: 8px"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="28" alt="PHP" style="margin-right: 8px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 8px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" style="margin-right: 8px"> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="28" alt="jQuery" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 8px"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="28" alt="TensorFlow" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" height="28" alt="Cypress" style="margin-right: 8px"></div>
 
 ---
 
 💀 *"The system fears the mind that questions it."*
----
 
-## 🧰 Skills
 
-* **Python** — `■■■■■□□□□□` (Advanced)  
-* **C / C++** — `■■■■□□□□□□` (Intermediate)  
-* **JavaScript (Node/React)** — `■■■■■□□□□□` (Intermediate)  
-* **HTML / CSS** — `■■■■■□□□□□` (Intermediate)  
-* **Java** — `■■■□□□□□□□` (Beginner)  
-* **PHP** — `■■■□□□□□□□` (Basic)  
-* **Embedded (ESP32, Raspberry Pi)** — `■■■■■□□□□□` (Advanced)  
-* **Linux & Kali** — `■■■■■□□□□□` (Advanced)  
-* **RF / SDR** — `■■■□□□□□□□` (Beginner-Intermediate)  
-* **PCB & EasyEDA** — `■■■□□□□□□□` (Intermediate)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uCanCallSpitfire\&hide=TeX\&layout=compact)</br>
+## 🌐 Connect
+💬 Discord: **aghand**  
+🚀 GitHub: [github.com/uCanCallSpitfire](https://github.com/uCanCallSpitfire)
 
 ---
+
 
 ## 📫 Communication
 
